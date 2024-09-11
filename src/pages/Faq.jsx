@@ -18,9 +18,6 @@ function Faq() {
     const [open11, setOpen11] = useState(false);
     const [open12, setOpen12] = useState(false);
 
-
-
-    
   return (
     <>
      <div className='bg-light p-4' style={{height:'90vh'}}>
